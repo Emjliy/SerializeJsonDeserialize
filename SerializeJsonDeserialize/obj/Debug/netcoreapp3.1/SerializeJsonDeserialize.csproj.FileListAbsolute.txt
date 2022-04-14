@@ -1,0 +1,16 @@
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\bin\Debug\netcoreapp3.1\SerializeJsonDeserialize.exe
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\bin\Debug\netcoreapp3.1\SerializeJsonDeserialize.deps.json
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\bin\Debug\netcoreapp3.1\SerializeJsonDeserialize.runtimeconfig.json
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\bin\Debug\netcoreapp3.1\SerializeJsonDeserialize.runtimeconfig.dev.json
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\bin\Debug\netcoreapp3.1\SerializeJsonDeserialize.dll
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\bin\Debug\netcoreapp3.1\SerializeJsonDeserialize.pdb
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\obj\Debug\netcoreapp3.1\SerializeJsonDeserialize.csproj.AssemblyReference.cache
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\obj\Debug\netcoreapp3.1\SerializeJsonDeserialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\obj\Debug\netcoreapp3.1\SerializeJsonDeserialize.AssemblyInfoInputs.cache
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\obj\Debug\netcoreapp3.1\SerializeJsonDeserialize.AssemblyInfo.cs
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\obj\Debug\netcoreapp3.1\SerializeJsonDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\obj\Debug\netcoreapp3.1\SerializeJsonDeserialize.csproj.CopyComplete
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\obj\Debug\netcoreapp3.1\SerializeJsonDeserialize.dll
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\obj\Debug\netcoreapp3.1\SerializeJsonDeserialize.pdb
+C:\Users\Emilia\Desktop\MyAllProjects\SerializeJsonDeserialize\SerializeJsonDeserialize\obj\Debug\netcoreapp3.1\SerializeJsonDeserialize.genruntimeconfig.cache

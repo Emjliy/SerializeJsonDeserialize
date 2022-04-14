@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xaaIeUWKlGKJ8f5Rlhl1cMk5sIlWGwaVfC+8kD6rSnmfQE6yTvBxCG16ROQCquIpGpiZ/1QQl2vKG+M6WoCNfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emilia\\Desktop\\MyAllProjects\\SerializeJsonDeserialize\\SerializeJsonDeserialize\\SerializeJsonDeserialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emilia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
